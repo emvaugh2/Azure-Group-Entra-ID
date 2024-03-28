@@ -58,7 +58,7 @@ The new user we're creating is `Cloud Intern Mentor` so I put that as the name. 
 
 ![Image](IDGroup10.png)
 
-Click Create and you shoudl have a new user named `Cloud Intern Mentor`.
+Click Create and you should have a new user named `Cloud Intern Mentor`.
 
 ![Image](IDGroup11.png)
 
